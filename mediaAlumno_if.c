@@ -4,7 +4,8 @@
 int main (){
 
 float nota1 = 0;
-float nota2 = 0; 
+float nota2 = 0;
+float nota3 = 0; 
 float media = 0; 
 
 printf("Informe a sua primeira nota:");

@@ -15,7 +15,7 @@ char nome[250];
         
     printf("Informe seu peso: ");
     scanf("%f", &peso);
-
+0
     fflush(stdin); //limpa o cache do input 
     
     printf("Informe seu sexo: ");
