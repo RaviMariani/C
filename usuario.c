@@ -16,7 +16,7 @@ gets(login);
 printf("Digite sua senha: ");
 gets(senha);
 
-if(strcmp(login, loginSalvo) && strcmp(senha,senhaSalva) {
+if(strcmp(login, loginSalvo) == 0 && strcmp(senha,senhaSalva) {
 printf("Bem-Vindo!");
 }else{
     printf("Acesso negado!");
